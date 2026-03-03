@@ -1,9 +1,13 @@
 # Waiting List Analytics Dashboard – Power BI Project
 
 ## Project Overview
-The **Waiting List Dashboard** is an interactive Power BI solution designed to analyze patient waiting list in a healthcare setting.
+This **Waiting List Dashboard** is an interactive Power BI solution designed to analyze patient waiting list in a healthcare setting.
 
 The dashboard provides visibility into current waiting list status, historical monthly trends, and detailed specialty and demographic breakdowns. It combines strong analytical capabilities with advanced interactivity and design experimentation.
+
+I recommend downloading the PBIX file to see all dashboard capabilities, but you can also scroll down to see screenshots.
+
+Please note I only have access to Power BI desktop, therefore I am not able to implement features like buttons etc.
 
 ##  Report Structure
 
