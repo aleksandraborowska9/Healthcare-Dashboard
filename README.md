@@ -97,12 +97,4 @@ This dashboard enables decision-makers to:
 - Support capacity planning decisions
 - Improve data-driven healthcare management
 
----
 
-##  Key Skills Demonstrated
-
-- Healthcare data analysis
-- Time-series analysis
-- Advanced interactivity & drilldown implementation
-- DAX-based calculations
-- Business storytelling with data
